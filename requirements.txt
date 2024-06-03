@@ -1,0 +1,4 @@
+scrapy
+lxml
+readability-lxml
+google-cloud-bigquery
